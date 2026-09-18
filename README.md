@@ -11,8 +11,6 @@ I'm a Computer Science graduate building my foundation in Core Java and software
 ![](https://github-readme-stats.shion.dev/api?username=VijaySudarshanS&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=VijaySudarshanS&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VijaySudarshanS&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#kaalaantargata
+#Sarvaayudeshwaraayanamaha
 
----
-[![](https://komarev.com/ghpvc/?username=VijaySudarshanS&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
